@@ -9,7 +9,7 @@ This is an excellent case for parallel processing, because it is a process that 
 
 Clone this project and run the command:
 
-````javascript
+````npm
 node index.js
 ````
 and watch the mining happen by creating a hash for guy "bitcoin"
