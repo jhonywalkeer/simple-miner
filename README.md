@@ -1,4 +1,4 @@
-## :clipboard: About the project
+## 💻 Project summary
 
 The act of 'mining' a bitcoin is basically finding a unique number that, when added to the payload of a
 block, produces a final hash that follows a specific rule. In the case of bitcoin, this rule says that the final hash must start with a number of N zeros.
@@ -14,9 +14,24 @@ node index.js
 ````
 and watch the mining happen by creating a hash for guy "bitcoin"
 
+## 🛠 Technologies
 
-## :book: License
+Project was built using **Node.js** only
 
-This project is under the MIT license. See the [LICENSE](LICENSE.md) for more details.
+
+## 🔨 Local Installation
+
+You need [Node.js](https://nodejs.org) version 10 or higher, but if you want to use [Yarn](https://yarnpkg.com/) you can also just have it on your computer to continue.
+
+```bash
+git clone https://github.com/JhonyWalker-pixel/first-api.git
+
+$ cd simple-miner
+```
+
+## 📖 License
+
+This project is under license from MIT. See the [LICENSE](LICENSE.md) file for more details.
+
 
 
